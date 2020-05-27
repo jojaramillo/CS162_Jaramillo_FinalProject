@@ -1,5 +1,10 @@
-public class Zombies {
+public class Zombies extends Person {
     public Zombies() {
+        //super();
+        //setupPoint();
+        //setupColor();
+        //setVelocity();
+
 
     }
 }
